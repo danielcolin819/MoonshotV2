@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('kubio-global-data', 'lodash', 'wp-api-fetch', 'wp-blocks', 'wp-data', 'wp-element', 'wp-i18n', 'wp-polyfill'), 'version' => 'd50b30923ad62f7392fa412570c55a9d');
